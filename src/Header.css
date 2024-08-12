@@ -1,0 +1,12 @@
+.head{
+  margin: auto;
+  color:beige;
+  background-color:#db6b0f;
+  border-radius:19px;
+  height: 17vh;
+  width: 80vw;
+
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
